@@ -13,9 +13,9 @@ USER AUTHENTICATION – REGISTRATION, LOGIN, LOGOUT, PASSWORD HASHING, “REMEBE
 
 DIARY ENTRIES – CREATE, READ, update, DELETE ENTRIES with rich text content
 
-Mood Tracking – Choose mood (happy, excited, calm, sad, etc.) with emoji & colour coding
+MOOD TRACKING – Choose mood (happy, excited, calm, sad, etc.) with emoji & colour coding
 
-Privacy Control – Mark entries as public or private
+PRIVACY CONTROL – Mark entries as public or private
 
 Tagging System – Add comma-separated tags, search by tags
 
