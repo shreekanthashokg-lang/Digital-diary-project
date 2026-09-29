@@ -94,7 +94,7 @@ CREATE ALL tables (User, DiaryEntry)
 
 Populate sample data (demo user, admin user, and 4 sample entries)
 
-OPEN YOUR BROWSER and go to:
+OPEN YOUR BROWSER :
 http://localhost:5000
 
 🔐 DEMO CREDENTIALS
