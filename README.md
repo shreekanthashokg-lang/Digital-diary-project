@@ -41,10 +41,10 @@ Icons	Emoji (mood indicators)
 📁 PROJECT STRUCTURES
 text
 digital-diary/
-├── app.py                 # Main application entry point
+├── app.py                 # Main 
 ├── requirements.txt       # PYTHON DEPENDENCIES 
 ├── digital_diary.db       # SQLite database (auto-created on first run)
-├── templates/             # HTML templates (Jinja2)
+├── templates/             
 │   ├── index.html
 │   ├── login.html
 │   ├── register.html
