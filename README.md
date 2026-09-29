@@ -163,7 +163,7 @@ Change database – Update SQLALCHEMY_DATABASE_URI to PostgreSQL, MySQL, etc.
 
 Extend models – Add new fields to User or DiaryEntry and run database migrations (consider Flask-Migrate).
 
-🤝 Contributing
+🤝 MY CONTRIBUTION
 This is a college project, but suggestions and improvements are welcome!
 Feel free to open an issue or submit a pull request.
 
