@@ -55,7 +55,7 @@ digital-diary/
 │   ├── profile.html
 │   ├── 404.html
 │   └── 500.html
-├── static/                # Custom CSS, JS, images (if any)
+├── static/
 │   └── style.css
 └── README.md
 NOTE: The templates and static folder are required for the app to run.
