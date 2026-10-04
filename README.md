@@ -124,7 +124,6 @@ See recent public entries on the home page.
 
 View individual public entries (private entries are hidden).
 
-Search public entries (limited to public content).
 
 API ENDPOINT
 URL: /api/stats
