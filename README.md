@@ -98,7 +98,7 @@ OPEN YOUR BROWSER :
 http://localhost:5000
 
 🔐 DEMO CREDENTIALS
-Use these accounts to test the APPLICATION IMMEDIATELY :
+USE THESE ACCOUNTS TO TEST THE APPLICATION IMMEDIATELY :
 
 ROLE	Username	Password
 Student (Demo)	demo_student	password123
