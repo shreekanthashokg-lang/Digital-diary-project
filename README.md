@@ -4,43 +4,7 @@ A FUL-featured digital diary Web APPLICATION BUILT WITH FLASK,SQLAlchemy and Boo
 Designed as A PRATICE project to demonstrate user authentication, CRUD operations, mood tracking, tagging, and responsive design.
 
 
-│   └── 500.html
-├── static/
-│   └── style.css
-└── README.md
-NOTE: The templates and static folder are required for the app to run.
-If they are missing, you can create them based on the routes defined in app.py.
-
-🚀 GETTING STARTED
-PREREUISITES 
-PYTHON 3.8 or HIGHER
-
-pip (Python package manager)
-
-INSTALLATION
-CLONE THE REPOSITORY
-
-bash
-git clone https://github.com/your-username/digital-diary.git
-cd digital-diary
-Create a virtual environment (recommended)
-
-bash
-python -m venv venv
-source venv/bin/activate      
-Install dependencies
-
-bash
-pip install -r requirements.txt
-Run the application
-
-bash
-python app.py
-On first run, the script will:
-
-Create digital_diary.db (SQLite database)
-
-CREATE ALL tables (User, DiaryEntry)
+r, DiaryEntry)
 
 Populate sample data (demo user, admin user, and 4 sample entries)
 
