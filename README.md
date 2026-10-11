@@ -160,7 +160,6 @@ Add more moods – Edit get_mood_emoji() and get_mood_color() in app.py.
 
 Change database – Update SQLALCHEMY_DATABASE_URI to PostgreSQL, MySQL, etc.
 
-Extend models –
 
 🤝 MY CONTRIBUTION
 suggestions and improvements are welcome!
