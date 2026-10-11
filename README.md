@@ -113,8 +113,7 @@ ADD ENTRY – Write a new diary entry, choose mood, set privacy, add tags.
 
 Edit/Delete – Each entry has edit/delete buttons (only for your own entries).
 
-Search – Use the search bar in the navigation to find entries by keyword.
-
+Search 
 Profile – View your account info and overall statistics.
 
 Logout – Click the logout button in the navbar.
