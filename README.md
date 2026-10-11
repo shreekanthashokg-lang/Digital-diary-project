@@ -3,57 +3,7 @@
 A FUL-featured digital diary Web APPLICATION BUILT WITH FLASK,SQLAlchemy and Bootstrap 5.
 Designed as A PRATICE project to demonstrate user authentication, CRUD operations, mood tracking, tagging, and responsive design.
 
-https://img.shields.io/badge/Flask-2.3.3-blue
-https://img.shields.io/badge/SQLAlchemy-3.0.5-red
-https://img.shields.io/badge/Bootstrap-5-purple
-https://img.shields.io/badge/license-MIT-green
 
-✨ FEATURES
-USER AUTHENTICATION – REGISTRATION, LOGIN, LOGOUT, PASSWORD HASHING, “REMEBER ME”
-
-DIARY ENTRIES – CREATE, READ, update, DELETE ENTRIES with rich text content
-
-MOOD TRACKING – Choose mood (happy, excited, calm, sad, etc.) with emoji & colour coding
-
-PRIVACY CONTROL – Mark entries as public or private
-
-Tagging System – Add comma-separated tags, search by tags
-
-Search – Find entries by title, content or tags (public entries + your own)
-
-Statistics Dashboard – See total entries, public/private split, mood distribution
-
-User Profile – Account age, entry counts, last login tracking
-
-Public Entries Feed – Explore recent public entries on the home page
-
-REST API Endpoint – /api/stats returns global usage statistics (JSON)
-
-RESPONSIVE UI – WOKS ON DESKTOP , tablet, and mobile (BOOTSTRAP 5)
-
-🛠️ TECH STACK
-LAYER TECHNOLOGY
-Backend	Flask (Python)
-Database	SQLite + SQLAlchemy ORM
-Authentication	Flask-Login + Werkzeug password hashing
-Frontend	Bootstrap 5, HTML5, CSS3, Jinja2 templates
-Icons	Emoji (mood indicators)
-📁 PROJECT STRUCTURES
-text
-digital-diary/
-├── app.py                 # Main 
-├── requirements.txt      
-├── digital_diary.db       # SQLite database (auto-created on first run)
-├── templates/             
-│   ├── index.html
-│   ├── login.html
-│   ├── register.html
-│   ├── dashboard.html
-│   ├── add_entry.html
-│   ├── view_entry.html
-│   ├── search.html
-│   ├── profile.html
-│   ├── 404.html
 │   └── 500.html
 ├── static/
 │   └── style.css
