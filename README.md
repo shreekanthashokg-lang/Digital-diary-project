@@ -42,7 +42,7 @@ Icons	Emoji (mood indicators)
 text
 digital-diary/
 ├── app.py                 # Main 
-├── requirements.txt       # PYTHON DEPENDENCIES 
+├── requirements.txt      
 ├── digital_diary.db       # SQLite database (auto-created on first run)
 ├── templates/             
 │   ├── index.html
