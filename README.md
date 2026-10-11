@@ -158,7 +158,7 @@ https://screenshots/home.png	https://screenshots/dashboard.png	https://screensho
 🧰 Customization
 Add more moods – Edit get_mood_emoji() and get_mood_color() in app.py.
 
-Change database – Update SQLALCHEMY_DATABASE_URI to PostgreSQL, MySQL, etc.
+Change database – 
 
 
 🤝 MY CONTRIBUTION
