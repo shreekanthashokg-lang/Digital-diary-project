@@ -73,7 +73,7 @@ bash
 git clone https://github.com/your-username/digital-diary.git
 cd digital-diary
 
-# Create a virtual environment (recommended)
+# Create a virtual ENVIRONMENT (recommended)
 python -m venv venv
 source venv/bin/activate
 
