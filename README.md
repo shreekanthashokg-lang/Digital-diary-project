@@ -92,7 +92,7 @@ Populate sample data (demo user, admin user, and 4 sample entries)
 
 Open your browser: http://localhost:5000
 
-🔐 Demo Credentials
+🔐 CREDENTIALS
 Role	Username	Password
 Student	demo_student	password123
 Admin	admin	admin123
