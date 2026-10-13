@@ -1,4 +1,4 @@
-📓 Digital Diary : Mini Project
+📓 Digital Diary : MINI PROJECT
 A full-featured Digital Diary Web Application built with Flask, SQLAlchemy, and Bootstrap 5.
 Designed as a practice project to demonstrate user authentication, CRUD operations, mood tracking, tagging, and responsive design.
 
