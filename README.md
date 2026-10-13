@@ -119,7 +119,7 @@ See recent public entries on the home page
 
 View individual public entries (private entries are hidden)
 
-🌐 API Endpoint
+🌐 API ENDPOINT
 URL: /api/stats
 
 Method: GET
