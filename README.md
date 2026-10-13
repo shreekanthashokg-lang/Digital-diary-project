@@ -69,7 +69,7 @@ pip (Python package manager)
 
 Installation
 bash
-# Clone the repository
+# CLONE THE REPOSITORY
 git clone https://github.com/your-username/digital-diary.git
 cd digital-diary
 
