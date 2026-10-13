@@ -77,7 +77,7 @@ cd digital-diary
 python -m venv venv
 source venv/bin/activate
 
-# Install dependencies
+# INSTALL DEPENDENCIES
 pip install -r requirements.txt
 
 # Run the application
