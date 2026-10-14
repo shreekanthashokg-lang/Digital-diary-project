@@ -65,7 +65,7 @@ Note: The templates and static folders are required for the app to run. If missi
 Prerequisites
 Python 3.8 or higher
 
-pip (Python package manager)
+pip (PYTHON PACKAGE MANAGER)
 
 Installation
 bash
