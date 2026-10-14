@@ -81,7 +81,7 @@ venv\Scripts\activate      # On Windows
 # INSTALL DEPENDENCIES
 pip install -r requirements.txt
 
-# Run the application
+# RUN THE  APPLICATIONS
 python app.py
 On first run, the script will:
 
