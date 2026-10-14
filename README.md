@@ -39,7 +39,7 @@ Frontend	Bootstrap 5, HTML5, CSS3, Jinja2 templates
 Icons	Emoji (mood indicators)
 
 
-📁 Project Structure
+📁 PROJECT STRUCTURE
 Code
 digital-diary/
 ├── app.py                 # Main application
