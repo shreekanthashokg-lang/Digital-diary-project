@@ -118,7 +118,7 @@ Public Area (not logged in):
 
 See recent public entries on the home page
 
-View individual public entries (private entries are hidden)
+View individual public entries 
 
 🌐 API Endpoint
 URL: /api/stats
