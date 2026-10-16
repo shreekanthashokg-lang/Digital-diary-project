@@ -154,7 +154,7 @@ Dashboard → https://screenshots/dashboard.png
 Add Entry → https://screenshots/add.png
 
 🧰 Customization 
-Change database – Replace SQLite with PostgreSQL/MySQL
+Change database – 
 
 🤝 Contribution
 Suggestions and improvements are welcome!
