@@ -153,8 +153,7 @@ Dashboard → https://screenshots/dashboard.png
 
 Add Entry → https://screenshots/add.png
 
-🧰 Customization
-Add 
+🧰 Customization 
 Change database – Replace SQLite with PostgreSQL/MySQL by updating SQLAlchemy config
 
 🤝 Contribution
