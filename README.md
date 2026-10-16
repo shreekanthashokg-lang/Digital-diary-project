@@ -154,8 +154,7 @@ Dashboard → https://screenshots/dashboard.png
 Add Entry → https://screenshots/add.png
 
 🧰 Customization
-Add more moods – Edit get_mood_emoji() and get_mood_color() in app.py
-
+Add 
 Change database – Replace SQLite with PostgreSQL/MySQL by updating SQLAlchemy config
 
 🤝 Contribution
