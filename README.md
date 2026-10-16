@@ -145,7 +145,7 @@ export FLASK_ENV="production"
 Modify app.py to read from os.environ.get() and set debug=False.
 
 📸 Screenshots
-(Add actual screenshots of your running app here)
+
 
 Home Page → https://screenshots/home.png
 
