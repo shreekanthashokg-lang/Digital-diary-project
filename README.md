@@ -158,7 +158,7 @@ Change database – Replace SQLite with PostgreSQL/MySQL by updating SQLAlchemy 
 
 🤝 Contribution
 Suggestions and improvements are welcome!
-Feel free to fork the repo and submit pull requests.
+
 
 📄 License
 This project is open-source and available under the MIT License.
