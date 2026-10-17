@@ -156,7 +156,7 @@ Add Entry → https://screenshots/add.png
 
 
 🤝 Contribution
-Suggestions and improvements are welcome!
+
 
 
 📄 License
