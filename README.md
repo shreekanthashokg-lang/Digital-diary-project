@@ -140,8 +140,7 @@ json
 For deployment, set environment variables:
 
 bash
-export SECRET_KEY="your-random-secret-key"
-export FLASK_
+
 
 📸 Screenshots
 
