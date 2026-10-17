@@ -151,7 +151,7 @@ Home Page → https://screenshots/home.png
 
 Dashboard → https://screenshots/dashboard.png
 
-Add Entry → https://screenshots/add.png
+
 
 
 
