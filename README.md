@@ -139,8 +139,6 @@ json
 🧪 Running in Production (Optional)
 For deployment, set environment variables:
 
-bash
-
 
 📸 Screenshots
 
