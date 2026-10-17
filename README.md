@@ -141,8 +141,7 @@ For deployment, set environment variables:
 
 bash
 export SECRET_KEY="your-random-secret-key"
-export FLASK_ENV="production"
-Modify app.py to read from os.environ.get() and set debug=False.
+export FLASK_
 
 📸 Screenshots
 
