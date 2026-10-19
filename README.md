@@ -16,7 +16,7 @@ Mood Tracking – Choose mood  with emoji & color coding
 
 Privacy Control – Mark entries as public or private
 
-Tagging System – Add comma-separated tags, search by tags
+
 
 Search – Find entries by title, content, or tags (public entries + your own)
 
