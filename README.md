@@ -112,7 +112,6 @@ Search – Find entries by title, content, or tags
 
 Profile – View account info and overall statistics
 
-Logout – Securely log out from the navbar
 
 Public Area (not logged in):
 
