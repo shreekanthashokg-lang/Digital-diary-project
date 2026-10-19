@@ -113,7 +113,7 @@ Search – Find entries by title, content, or tags
 Profile – View account info and overall statistics
 
 
-Public Area (not logged in):
+Public Area :
 
 
 
