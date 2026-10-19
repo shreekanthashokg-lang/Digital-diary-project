@@ -12,7 +12,7 @@ User Authentication – Registration, login, logout, password hashing, “Rememb
 
 Diary Entries – Create, read, update, delete entries with rich text content
 
-Mood Tracking – Choose mood (happy, excited, calm, sad, etc.) with emoji & color coding
+Mood Tracking – Choose mood  with emoji & color coding
 
 Privacy Control – Mark entries as public or private
 
