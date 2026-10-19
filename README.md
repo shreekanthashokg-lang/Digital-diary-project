@@ -8,8 +8,7 @@ https://img.shields.io/badge/Bootstrap-5-purple
 https://img.shields.io/badge/license-MIT-green
 
 ✨ FEATURES
-User Authentication – Registration, login, logout, password hashing, “Remember Me”
-
+User Authentication – Registration, login, logout, password
 Diary Entries – Create, read, update, delete entries with rich text content
 
 Mood Tracking – Choose mood  with emoji & color coding
