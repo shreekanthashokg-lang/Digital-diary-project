@@ -12,7 +12,7 @@ https://img.shields.io/badge/license-MIT-green
 
 Diary Entries – Create, read, update, delete entries with rich text content
 
-Mood Tracking – Choose mood  with emoji & color coding
+
 
 Privacy Control – Mark entries as public or private
 
