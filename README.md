@@ -122,8 +122,7 @@ URL: /api/stats
 
 Method: GET
 
-Response Example:
-
+Example:
 json
 {
   "total_users": 2,
