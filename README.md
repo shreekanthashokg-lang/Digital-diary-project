@@ -10,7 +10,7 @@ https://img.shields.io/badge/license-MIT-green
 ✨ FEATURES
 
 
-Diary Entries – Create, read, update, delete entries with rich text content
+
 
 
 
