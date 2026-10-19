@@ -134,7 +134,9 @@ json
   "timestamp": "2025-01-29T12:34:56"
 }
 🧪 Running in Production
-For deployment, set environment variables:
+
+
+
 
 
 📸 Screenshots
