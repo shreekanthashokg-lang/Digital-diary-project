@@ -99,7 +99,7 @@ Student	demo_student	password123
 Admin	admin	admin123
 
 
-You can also register a new account from the login page.
+
 
 📚 USAGE GUIDE
 Dashboard – View all your diary entries
