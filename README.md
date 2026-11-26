@@ -53,15 +53,6 @@ Python 3.8 or higher
 pip (PYTHON PACKAGE MANAGER)
 
 
-# Create a virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate   # On Linux/Mac
-venv\Scripts\activate      # On Windows
-
-# INSTALL DEPENDENCIES
-pip install -r requirements.txt
-
-
 
 
 
