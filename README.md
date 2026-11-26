@@ -89,12 +89,6 @@ Open your browser at: http://localhost:5000
 
 
 
-Public Area :
-
-
-
-🌐 API Endpoint
-URL: /api/stats
 
 Method: GET
 
