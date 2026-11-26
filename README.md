@@ -14,7 +14,6 @@ https://img.shields.io/badge/license-MIT-green
 
 
 
-Privacy Control – Mark entries as public or private
 
 
 
