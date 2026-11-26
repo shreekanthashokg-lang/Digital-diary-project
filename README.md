@@ -137,12 +137,6 @@ json
 
 
 
-📸 Screenshots
-
-
-Home Page → https://screenshots/home.png
-
-Dashboard → https://screenshots/dashboard.png
 
 
 
