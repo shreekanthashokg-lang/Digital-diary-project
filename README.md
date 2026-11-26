@@ -64,11 +64,6 @@ Python 3.8 or higher
 
 pip (PYTHON PACKAGE MANAGER)
 
-Installation
-bash
-# Clone the repository
-git clone https://github.com/your-username/digital-diary.git
-cd digital-diary
 
 # Create a virtual environment (recommended)
 python -m venv venv
