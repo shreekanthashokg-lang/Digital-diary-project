@@ -7,8 +7,6 @@ https://img.shields.io/badge/SQLAlchemy-3.0.5-red
 https://img.shields.io/badge/Bootstrap-5-purple  
 https://img.shields.io/badge/license-MIT-green
 
-✨ FEATURES
-
 
 
 
