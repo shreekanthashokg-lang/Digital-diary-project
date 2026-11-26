@@ -65,14 +65,6 @@ pip install -r requirements.txt
 python app.py
 On first run, the script will:
 
-Create digital_diary.db (SQLite database)
-
-Create all tables (User, DiaryEntry)
-
-Populate sample data (demo user, admin user, and 4 sample entries)
-
-Open your browser at: http://localhost:5000
-
 
 
 
