@@ -15,18 +15,6 @@ https://img.shields.io/badge/license-MIT-green
 
 
 
-Search – Find entries by title, content, or tags (public entries + your own)
-
-Statistics Dashboard – See total entries, public/private split, mood distribution
-
-User Profile – Account age, entry counts, last login tracking
-
-Public Entries Feed – Explore recent public entries on the home page
-
-REST API Endpoint – /api/stats returns global usage statistics (JSON)
-
-Responsive UI – Works on desktop, tablet, and mobile (Bootstrap 5)
-
 🛠️ Tech Stack
 Layer	Technology
 Backend	Flask (Python)
