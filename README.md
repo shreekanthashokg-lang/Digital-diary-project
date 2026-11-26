@@ -90,21 +90,6 @@ Open your browser at: http://localhost:5000
 
 
 
-Method: GET
-
-Example:
-json
-{
-  "total_users": 2,
-  "total_entries": 5,
-  "public_entries": 3,
-  "database": "SQLite",
-  "status": "online",
-  "timestamp": "2025-01-29T12:34:56"
-}
-🧪 Running in Production
-
-
 
 
 
