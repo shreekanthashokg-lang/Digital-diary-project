@@ -88,17 +88,6 @@ Open your browser at: http://localhost:5000
 
 
 
-📚 USAGE GUIDE
-Dashboard – View all your diary entries
-
-Add Entry – Write a new diary entry, choose mood, set privacy, add tags
-
-Edit/Delete – Manage your own entries
-
-Search – Find entries by title, content, or tags
-
-Profile – View account info and overall statistics
-
 
 Public Area :
 
